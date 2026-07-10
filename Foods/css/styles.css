@@ -63,6 +63,12 @@
         border-radius: 18px;
     }
 
+    .about__eyebrow {
+        color: var(--primary-color);
+        font-size: 20px;
+        font-weight: 600;
+    }
+
     .navbar__list {
         display: flex;
         justify-content: space-between;
